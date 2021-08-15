@@ -1,0 +1,1 @@
+Implementation of a multi-class logistic regression algorithm to recognize handwritten digits from a training set of 5000 examples from the MNIST dataset. Also included is the implementtion of a prediction algorithm to classify values from the output layer of a neural network designed for the same function.
